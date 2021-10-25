@@ -1,6 +1,7 @@
 # mycode
 Tracking my code
 This is a Lab project
+Want to learn how to use git
 
 ## Getting Started
 See deployment for notes on how to deploy the project on a live system.
